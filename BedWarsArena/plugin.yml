@@ -1,0 +1,7 @@
+name: BedWarsArena
+main: BW\Loader
+api: 4.0.0
+version: 0.1
+
+depend:
+  - StarGate-Atlantis
